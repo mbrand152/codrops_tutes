@@ -11,8 +11,8 @@
 	top: -16px;
 	left: 50px; /* width of visible piece */
 	width: 335px;
-		box-shadow: 0 0 0 1px rgba(255,255,255,0.6);
-		transition: all 0.3s ease-in-out;
+	box-shadow: 0 0 0 1px rgba(255,255,255,0.6);
+	transition: all 0.3s ease-in-out;
 }
 
 .ia-container > figure {
@@ -111,7 +111,7 @@
 	}
 	
 	.ia-container figure { 
-		left: 40px; 
+		left: -15px; 
 		width: 260px; 
 	}
 	
